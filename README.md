@@ -3,7 +3,7 @@
 
 <p align="center">
   Welcome to my page!<br/>
-  I'm <b>Aleena</b>, a Data Scientist from 🇮🇳 <b>Kerala, India</b> — currently on an intensive Data Science & AI Internship, building real-world projects across Python, ML, Deep Learning, Power BI, and AWS.
+  I'm <b>Aleena</b>, a Data Scientist from <b>Kerala, India</b> — currently on an intensive Data Science & AI Internship, building real-world projects across Python, ML, Deep Learning, Power BI, and AWS.
 </p>
 
 <p align="center">
